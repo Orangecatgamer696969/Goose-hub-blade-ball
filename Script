@@ -1,8 +1,8 @@
---// nurysium recode
+--// Goose Hub recode
 
-local version = '0.3.0'
+local version = '1.5'
 
-print('nurysium llc. - https://dsc.gg/nurysium')
+print('Goose Hub llc. - https://discord.com/invite/BKPQBt2K9k')
 print(version)
 
 setfpscap(165)
